@@ -95,7 +95,7 @@ a:hover {
 
 
 .main-wrapper {
-    background-image: url("../imagenes/fondo.png"); 
+    background-image: url("../imagenes/Fondo.png"); 
     background-size: cover; /* Hace que la imagen cubra todo el espacio sin deformarse */
     background-position: center;
     background-repeat: no-repeat; /* Evita que la imagen se repita como un mosaico */
